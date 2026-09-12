@@ -1,0 +1,5 @@
+#2FE regions_unexplored:bamboo_forest
+#6DD regions_unexplored:grassy_beach
+#79A minecraft:lukewarm_ocean
+#4AB regions_unexplored:redwoods
+#5FF minecraft:river
